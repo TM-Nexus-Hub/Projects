@@ -60,7 +60,7 @@ Tharvesh Muhaideen A
 [GitHub](https://github.com/tharvesh588) • [LinkedIn](https://linkedin.com/in/tharvesh2005) • TM Nexus Hub | [Github](https://github.com/TM-Nexus-Hub) | [Instagram](https://instagram.com/tmnexus.official)
 
 ## 📄 License
-This project is open-sourced under the <strong>[MIT License](./LICENSE).</strong>
+This project is open-sourced under the <strong>[MIT License](../LICENSE).</strong>
 
 
 ## 🏷️ Tags
